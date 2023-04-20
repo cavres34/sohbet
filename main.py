@@ -2,7 +2,7 @@ import os
 
 import logging
 
-from scraper import devtoTop, devtoLatest, get_tldr, get_medium, get_quote, get_techcrunch, get_hackerNews
+from scraper import get_tldr, get_medium, get_quote, get_techcrunch, get_hackerNews
 
 from keep_alive import keep_alive
 
