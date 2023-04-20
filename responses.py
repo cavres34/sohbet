@@ -126,7 +126,7 @@ def get_response(message):
 
     if winning_response == 0:
 
-        bot_response = matching_response[]
+        score = score + 1
 
     else:
 
