@@ -54,7 +54,7 @@ def get_response(message):
 
         # Help
 
-        Bot_Response(message, ['Mamaklı',],
+        Bot_Response(message, ['mamaklı',],
 
                      'Mamaklı derken besmele çek lan'),
 
