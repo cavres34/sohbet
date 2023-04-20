@@ -51,6 +51,8 @@ def get_response(message):
         Bot_Response(message, ['kimsin',],
 
                      'Sanane lan hesap mı vericem sana'),
+        Bot_Response(message, ['yaş',], 'ѕαиα кα¢̧ ℓαzıм'),
+                   
 
         # Help
 
