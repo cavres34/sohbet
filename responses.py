@@ -80,15 +80,17 @@ def get_response(message):
 
                      'Here you Go\n /socials'),
 
-        Bot_Response(message, ['source', 'code', ],
+        Bot_Response(message, ['source', 'code', ], 'bilmiyom'),
 
-                     'Here you Go\n /source_code'),
+        Bot_Response(message, ['günaydın',], 'gününaydınolsun'),
+
+      
 
         # Nude Joke Lol
 
         Bot_Response(message, [
 
-                     'nude', 'nudes', ], 'I just took a screenshot, and I\'m sending your photo to @amrohan right now, you lil horny ass😏'),
+                     'nude', 'nudes', ], '🤫'),
 
         # When Querry
 
