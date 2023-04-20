@@ -28,17 +28,17 @@ def get_response(message):
 
     response_list = [
 
-        Bot_Response(message, ['hello', 'hi', 'hey', 'sup', 'selam'],
+        Bot_Response(message, ['as', 'sea', 'slm', 'merhaba', 'selam'],
 
-                     'Hello there, your AI companion is here to serve you.\nYou can talk normally or Type (cmd) to get started '),
+                     'Ve aleyküm selam merhaba bebeğim'),
 
-        Bot_Response(message, ['bye', 'goodbye'], 'Görüşürüz yigidim'),
+        Bot_Response(message, ['by', 'bb', 'gidiyorum', 'gittim'], 'Görüşürüz yigidim😘'),
 
-        Bot_Response(message, ['cmd', 'type cmd'], 'click me /list'),
+        Bot_Response(message, ['naber', 'nbr'], 'iyidir yavrum senden naber'),
 
-        Bot_Response(message, ['how', 'are', 'you'],
+        Bot_Response(message, ['nasılsın'],
 
-                     'I\'m doing fine thanks!'),
+                     'Sen sorunca canom iyiyim iyiyim'),
 
         # new
 
