@@ -6,7 +6,6 @@ def Bot_Response(message, response_array, response):
 
     
 
-def get_response(message):
 
     # Add your custom responses here
 
