@@ -2,7 +2,7 @@ import os
 
 import logging
 
-from scraper impo
+
 
 from keep_alive import keep_alive
 
