@@ -28,7 +28,7 @@ def get_response(message):
 
     response_list = [
 
-        Bot_Response(message, ['as', 'sea', 'slm', 'merhaba', 'selam'],
+        Bot_Response(message, ['sa', 'sea', 'slm', 'merhaba', 'selam'],
 
                      'Ve aleyküm selam merhaba bebeğim'),
 
@@ -123,7 +123,13 @@ def get_response(message):
     matching_response = response_list[response_scores.index(winning_response)]
 
     # Return the matching response to the user
+       if winning_response == 0:
 
+        bot_response = ''
+
+    else:
+
+        bot_response = matching_response[1]
    
 
     print('Bot response:', bot_response)
