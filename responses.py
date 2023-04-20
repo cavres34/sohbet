@@ -72,9 +72,9 @@ def get_response(message):
 
         # Notes
 
-        Bot_Response(message, ['notes', 'note', ],
+        Bot_Response(message, ['not', ],
 
-                     'Soon, notes will be available'),
+                     '🍻'),
 
         Bot_Response(message, ['socials', 'socials', ],
 
