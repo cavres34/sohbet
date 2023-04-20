@@ -4,7 +4,6 @@ import logging
 
 
 
-from keep_alive import keep_alive
 
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 
