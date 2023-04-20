@@ -28,39 +28,39 @@ def get_response(message):
 
     response_list = [
 
-        Bot_Response(message, ['hello', 'hi', 'hey', 'sup'],
+        Bot_Response(message, ['selam', 'merhaba', 'sa', 'sea',],
 
-                     'Hello there, your AI companion is here to serve you.\nYou can talk normally or Type (cmd) to get started '),
+                     'merhaba ve aleyküm selam '),
 
-        Bot_Response(message, ['bye', 'goodbye'], 'Please don\'t go!'),
+        Bot_Response(message, ['bb', 'by', 'gidiyorum', 'gittim', 'çıkıyorum', 'gittim', 'kaçtım',], 'Defol lan'),
 
-        Bot_Response(message, ['cmd', 'type cmd'], 'click me /list'),
+        Bot_Response(message, ['naber',], 'iyidir senden'),
 
-        Bot_Response(message, ['how', 'are', 'you'],
+        Bot_Response(message, ['nasılsın',],
 
-                     'I\'m doing fine thanks!'),
+                     'iyiyim sen'),
 
         # new
 
-        Bot_Response(message, ['how', 'you', 'created'],
+        Bot_Response(message, ['nerelisin',],
 
-                     'I was created by using python and got deployed on Herkou'),
+                     'Sana nere lazım söyle bakam'),
 
         # Name
 
-        Bot_Response(message, ['your', 'name'],
+        Bot_Response(message, ['kimsin',],
 
-                     'My name is Rohan\'s Bot, nice to meet you!'),
+                     'Sanane lan hesap mı vericem sana'),
 
         # Help
 
-        Bot_Response(message, ['help', 'please'],
+        Bot_Response(message, ['Mamaklı',],
 
-                     'I will do my best to assist you!'),
+                     'Mamaklı derken besmele çek lan'),
 
         # Website
 
-        Bot_Response(message, ['link', 'links', ], 'website https://rohan.ml'),
+        Bot_Response(message, ['link', 'grup', ], '@vefaasohbet'),
 
         # Song
 
