@@ -285,7 +285,7 @@ if __name__ == '__main__':
 
     dp.add_error_handler(error)
 
-    keep_alive()
+    
 
     # Run the bot
 
