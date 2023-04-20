@@ -28,11 +28,11 @@ def get_response(message):
 
     response_list = [
 
-        Bot_Response(message, ['hello', 'hi', 'hey', 'sup'],
+        Bot_Response(message, ['hello', 'hi', 'hey', 'sup', 'selam'],
 
                      'Hello there, your AI companion is here to serve you.\nYou can talk normally or Type (cmd) to get started '),
 
-        Bot_Response(message, ['bye', 'goodbye'], 'Please don\'t go!'),
+        Bot_Response(message, ['bye', 'goodbye'], 'Görüşürüz yigidim'),
 
         Bot_Response(message, ['cmd', 'type cmd'], 'click me /list'),
 
