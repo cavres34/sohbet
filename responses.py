@@ -93,7 +93,7 @@ def Bot_Response(message, response_array, response):
 
     # Checks all of the response scores and returns the best matching response
 
-]
+
    
 
     print('Bot response:', bot_response)
