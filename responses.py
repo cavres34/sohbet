@@ -31,11 +31,11 @@ def get_response(message):
         Bot_Response(message, ['kurucu'],
                      '@Cengonuzz'),
         # new
-        Bot_Response(message, ['nasılsın', 'neber', ],
+        Bot_Response(message, ['nasılsın', 'neber',],
                      'eyvallah'),
 
         # Name
-        Bot_Response(message, ['kimsin', 'tanışalım', 'tanışabilirmiyiz', ],
+        Bot_Response(message, ['kimsin', 'tanışalım', 'tanışabilirmiyiz',],
                      'gevezeben!'),
         # Help
         Bot_Response(message, ['ta],
@@ -44,17 +44,17 @@ def get_response(message):
         Bot_Response(message, ['link', 'links', ], 'https://@vefaasohbet'),
 
         # Song
-        Bot_Response(message, ['nerelisin', ],
+        Bot_Response(message, ['nerelisin',],
                      'sana neresi lazım '),
 
         # Notes
-        Bot_Response(message, ['admin', ],
+        Bot_Response(message, ['admin',],
                      'buyur canım '),
 
-        Bot_Response(message, ['günaydın', ],
+        Bot_Response(message, ['günaydın',],
                      '☀️'),
 
-        Bot_Response(message, ['iyi geceler', ],
+        Bot_Response(message, ['iyi geceler',],
                      '🌙'),
 
         # Nude Joke Lol
