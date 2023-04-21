@@ -23,7 +23,7 @@ def get_response(message):
 
                      'Aleykümselam'),
 
-        Bot_Response(message, ['güle güle', 'ben gidiyom'], 
+        Bot_Response(message, ['gittim', 'çıktım', 'kaçtım'], 
                      'selametle'),
 
         Bot_Response(message, ['cmd', 'type cmd'], 'click me /list'),
@@ -31,39 +31,39 @@ def get_response(message):
         Bot_Response(message, ['kurucu'],
                      '@Cengonuzz'),
         # new
-        Bot_Response(message, ['how', 'you', 'created'],
-                     'I was created by using python and got deployed on Herkou'),
+        Bot_Response(message, ['nasılsın', 'neber', ],
+                     'eyvallah'),
 
         # Name
-        Bot_Response(message, ['your', 'name'],
-                     'My name is Rohan\'s Bot, nice to meet you!'),
+        Bot_Response(message, ['kimsin', 'tanışalım', 'tanışabilirmiyiz', ],
+                     'gevezeben!'),
         # Help
-        Bot_Response(message, ['help', 'please'],
+        Bot_Response(message, ['ta],
                      'I will do my best to assist you!'),
         # Website
-        Bot_Response(message, ['link', 'links', ], 'website https://rohan.ml'),
+        Bot_Response(message, ['link', 'links', ], 'https://@vefaasohbet'),
 
         # Song
-        Bot_Response(message, ['play', 'song', ],
-                     'https://youtu.be/edzt82nC45k'),
+        Bot_Response(message, ['nerelisin', ],
+                     'sana neresi lazım '),
 
         # Notes
-        Bot_Response(message, ['notes', 'note', ],
-                     'Soon, notes will be available'),
+        Bot_Response(message, ['admin', ],
+                     'buyur canım '),
 
-        Bot_Response(message, ['socials', 'socials', ],
-                     'Here you Go\n /socials'),
+        Bot_Response(message, ['günaydın', ],
+                     '☀️'),
 
-        Bot_Response(message, ['source', 'code', ],
-                     'Here you Go\n /source_code'),
+        Bot_Response(message, ['iyi geceler', ],
+                     '🌙'),
 
         # Nude Joke Lol
         Bot_Response(message, [
                      'nude', 'nudes', ], '🤫'),
 
         # When Querry
-        Bot_Response(message, ['when', '?', 'query', 'question', 'inform',
-                     'developer'], 'Inquire with the developer about this. @amrohan'),
+        Bot_Response(message, ['aşkım', 'sevgilim',]
+                     'developer'], '❤️'),
 
         # When Website
         Bot_Response(message, ['website', 'amrohan', 'web', 'developer'],
@@ -73,7 +73,7 @@ def get_response(message):
         Bot_Response(message, ['projects', 'project', 'proj','pro','projec', 'proje'],
                      'Here you Go\n /projects'),
 
-    ]
+
 
     # Checks all of the response scores and returns the best matching response
     response_scores = []
