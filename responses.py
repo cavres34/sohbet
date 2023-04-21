@@ -27,8 +27,8 @@ def get_response(message):
 
         Bot_Response(message, ['cmd', 'type cmd'], 'click me /list'),
 
-        Bot_Response(message, ['how', 'are', 'you'],
-                     'I\'m doing fine thanks!'),
+        Bot_Response(message, ['kurcu'],
+                     '@Cengonuzz'),
         # new
         Bot_Response(message, ['how', 'you', 'created'],
                      'I was created by using python and got deployed on Herkou'),
