@@ -44,7 +44,7 @@ def get_response(message):
 
         Bot_Response(message, ['nerelisin',],
 
-                     'Sana neresi lazım 🤭'),
+                     'Sana neresi lazım🤭'),
 
         # Name
 
@@ -72,9 +72,9 @@ def get_response(message):
 
         # Notes
 
-        Bot_Response(message, ['not', ],
+        Bot_Response(message, ['sevgilim', ],
 
-                     '🍻'),
+                     '❤️'),
 
         Bot_Response(message, ['socials', 'socials', ],
 
