@@ -21,7 +21,7 @@ def get_response(message):
     response_list = [
         Bot_Response(message, ['selam', 'merhaba', 'hello',],
 
-                     'iyi sen nasılsın'),
+                     'Aleykümselam'),
 
         Bot_Response(message, ['güle güle', 'ben gidiyom'], 
                      'selametle'),
