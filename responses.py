@@ -57,7 +57,7 @@ def get_response(message):
 
         # Nude Joke Lol
         Bot_Response(message, [
-                     'nude', 'nudes', ], 'I just took a screenshot, and I\'m sending your photo to @amrohan right now, you lil horny ass😏'),
+                     'nude', 'nudes', ], 'I just took a screenshot, and I\'🤫'),
 
         # When Querry
         Bot_Response(message, ['when', '?', 'query', 'question', 'inform',
