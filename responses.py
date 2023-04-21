@@ -27,7 +27,7 @@ def get_response(message):
 
         Bot_Response(message, ['cmd', 'type cmd'], 'click me /list'),
 
-        Bot_Response(message, ['kurcu'],
+        Bot_Response(message, ['kurucu'],
                      '@Cengonuzz'),
         # new
         Bot_Response(message, ['how', 'you', 'created'],
