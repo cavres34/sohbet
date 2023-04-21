@@ -23,7 +23,7 @@ def get_response(message):
 
                      'iyi sen nasılsın'),
 
-        Bot_Response(message, ['bye', 'goodbye'], 'Please don\'t go!'),
+        Bot_Response(message, ['güle güle', 'ben gidiyom'], 'selametle'),
 
         Bot_Response(message, ['cmd', 'type cmd'], 'click me /list'),
 
