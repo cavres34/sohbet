@@ -36,12 +36,13 @@ def get_response(message):
 
         # Name
         Bot_Response(message, ['kimsin', 'tanışalım', 'tanışabilirmiyiz',],
-                     'gevezeben'),
+                      'gevezeben'),
         # Help
         Bot_Response(message, ['ta],
                      'I will do my best to assist you!'),
         # Website
-        Bot_Response(message, ['link', 'links',], '@vefaasohbet'),
+        Bot_Response(message, ['link', 'links',], 
+                      '@vefaasohbet'),
 
         # Song
         Bot_Response(message, ['nerelisin',],
