@@ -19,7 +19,8 @@ def Bot_Response(message, response_array, response):
 def get_response(message):
     # Add your custom responses here
     response_list = [
-        Bot_Response(message, ['hello', 'hi', 'hey', 'sup'],
+        Bot_Response(message, ['selam', 'merba', 'hello', 'iyi sen nasılsın ')
+İ'],
                      'Hello there, your AI companion is here to serve you.\nYou can talk normally or Type (cmd) to get started '),
 
         Bot_Response(message, ['bye', 'goodbye'], 'Please don\'t go!'),
