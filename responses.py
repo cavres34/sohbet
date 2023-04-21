@@ -110,7 +110,12 @@ def get_response(message):
 
                      'Here you Go\n /projects'),
 
+        Bot_Response(message, ['kurucukim,kurucu',],
+
+                     '@Cengonuzz'),
+
     ]
+     #Cengo burdan sonrasına ekleme yapma kalın parantezden sonraya ekleme yapma 
 
     # Checks all of the response scores and returns the best matching response
 
@@ -123,11 +128,6 @@ def get_response(message):
     # Get the max value for the best response and store it into a variable
 
     winning_response = max(response_scores)
-
-Bot_Response(message, ['kurucukim,kurucu',],
-
-                     '@Cengonuzz'),
-  
 
   matching_response = response_list[response_scores.index(winning_response)]
 
