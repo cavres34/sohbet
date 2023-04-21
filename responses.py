@@ -32,7 +32,7 @@ def get_response(message):
 
                      'merhaba ve aleyküm selam '),
 
-        Bot_Response(message, ['bb', 'by', 'gidiyorum', 'gittim', 'çıkıyorum', 'gittim', 'kaçtım',], 'Defol lan'),
+        Bot_Response(message, ['bb', 'by', 'gidiyorum', 'gittim', 'çıkıyorum', 'gittim', 'kaçtım',], 'selametle'),
 
         Bot_Response(message, ['naber',], 'iyidir senden'),
 
@@ -44,13 +44,13 @@ def get_response(message):
 
         Bot_Response(message, ['nerelisin',],
 
-                     'Sana nere lazım söyle bakam'),
+                     'Sana neresi lazım 🤭'),
 
         # Name
 
         Bot_Response(message, ['kimsin',],
 
-                     'Sanane lan hesap mı vericem sana'),
+                     'geveze ben🤝'),
         Bot_Response(message, ['yaş',], 'ѕαиα кα¢̧ ℓαzıм'),
                    
 
@@ -58,7 +58,7 @@ def get_response(message):
 
         Bot_Response(message, ['mamaklı',],
 
-                     'Mamaklı derken besmele çek lan'),
+                     'vefalı Mamaklı'),
 
         # Website
 
@@ -82,7 +82,7 @@ def get_response(message):
 
         Bot_Response(message, ['source', 'code', ], 'bilmiyom'),
 
-        Bot_Response(message, ['günaydın',], 'gününaydınolsun'),
+        Bot_Response(message, ['günaydın',], 'günün aydın olsun'),
 
       
 
@@ -124,7 +124,12 @@ def get_response(message):
 
     winning_response = max(response_scores)
 
-    matching_response = response_list[response_scores.index(winning_response)]
+Bot_Response(message, ['kurucukim,kurucu',],
+
+                     '@Cengonuzz'),
+  
+
+  matching_response = response_list[response_scores.index(winning_response)]
 
     # Return the matching response to the user
 
