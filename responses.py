@@ -33,8 +33,8 @@ def get_response(message):
         # new
         Bot_Response(message, ['nasılsın', 'neber',],
                      'eyvallah'),
-Bot_Response(message, ['nasılsın', 'neber',],
-                     'eyvallah'),
+        Bot_Response(message, ['Özcan',],
+                       'vefalı Özcan 🤗'),
 
         # Name
         Bot_Response(message, ['kimsin', 'tanışalım', 'tanışabilirmiyiz',],
