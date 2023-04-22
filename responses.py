@@ -35,7 +35,7 @@ def get_response(message):
                      'eyvallah'),
        
         Bot_Response(message, ['Özcan',],
-                       'vefalı Özcan 🤗'),
+                       'vefalıÖzcan 🤗'),
 
         # Name
         Bot_Response(message, ['kimsin', 'tanışalım', 'tanışabilirmiyiz',],
@@ -46,7 +46,7 @@ def get_response(message):
        
         # Website
         Bot_Response(message, ['bot' 'botmusun',], 
-                      'sensin bot 🤦'),
+                      'sensinbot🤦'),
         
         #kare koyunca başına yazdıklarım geçersiz oluyor
         #ornek gösteriyorum
