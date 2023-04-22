@@ -39,7 +39,7 @@ def get_response(message):
 
         # Name
         Bot_Response(message, ['kimsin', 'tanışalım', 'tanışabilirmiyiz',],
-                      '𝕲𝖊𝖛𝖊𝖟𝖊𝖇𝖊𝖓'),
+                      '𝙂𝙚𝙫𝙚𝙯𝙚 𝙗𝙚𝙣'),
         # Help
         Bot_Response(message, ['fındık', 'fıstık', ],
                      'sєnsín fıstık 🥜'),
