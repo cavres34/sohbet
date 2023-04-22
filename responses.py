@@ -58,7 +58,7 @@ def get_response(message):
         Bot_Response(message, ['günaydın',],
                      '☀️'),
 
-        Bot_Response(message, ['iyi geceler',],
+        Bot_Response(message, ['geceler',],
                      '🌙'),
 
         # Nude Joke Lol
