@@ -87,8 +87,8 @@ def get_response(message):
           Bot_Response(message, ['kes'],
                          '🤨🔪),     
 
-Bot_Response(message, ['sıkıldım'],
-              'ᔕıKı ᑕᗩᑎ IYIᗪIᖇ KOᒪᗩY çıKᗰᗩᘔ😂')     
+          Bot_Response(message, ['sıkıldım'],
+                       'ᔕıKı ᑕᗩᑎ IYIᗪIᖇ KOᒪᗩY çıKᗰᗩᘔ😂),     
  
  ]
 
