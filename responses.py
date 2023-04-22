@@ -33,6 +33,8 @@ def get_response(message):
         # new
         Bot_Response(message, ['nasılsın', 'neber',],
                      'eyvallah'),
+Bot_Response(message, ['nasılsın', 'neber',],
+                     'eyvallah'),
 
         # Name
         Bot_Response(message, ['kimsin', 'tanışalım', 'tanışabilirmiyiz',],
@@ -41,8 +43,8 @@ def get_response(message):
         Bot_Response(message, ['mamaklı'],
                      'vefalımamaklı🤗'),
         # Website
-        Bot_Response(message, ['link', 'links',], 
-                      '@vefaasohbet'),
+        Bot_Response(message, ['bot' 'botmusun',], 
+                      'sensin bot 🤦'),
         #kare koyunca başına yazdıklarım geçersiz oluyor
         #ornek gösteriyorum
         # Bot_Response(message, ['botun cevap vereceği kelime',], 'botun yazacağı mesaj'),
