@@ -35,7 +35,7 @@ def get_response(message):
                      '𝐸𝓎𝓋𝒶𝓁𝓁𝒶𝒽'),
        
         Bot_Response(message, ['hello',],
-             'türkçє kσnuş cαnım🤗'),
+             '𝒯ü𝓇𝓀ç𝑒 𝓀𝑜𝓃𝓊ş 𝒸𝒶𝓃ı𝓂🤗'),
 
         # Name
         Bot_Response(message, ['kimsin', 'tanışalım', 'tanışabilirmiyiz',],
@@ -46,7 +46,7 @@ def get_response(message):
        
         # Website
         Bot_Response(message, ['bot', 'botmusun',], 
-                      'sensinbot🤦'),
+                      '𝒮𝑒𝓃𝓈𝒾𝓃 𝒷𝑜𝓉🤦'),
         
         #kare koyunca başına yazdıklarım geçersiz oluyor
         #ornek gösteriyorum
@@ -54,11 +54,10 @@ def get_response(message):
 
         # Song
         Bot_Response(message, ['nerelisin',],
-                     'sana neresi lazım '),
-
+                     'sαnα nєrєsí lαzım'),
         # Notes
         Bot_Response(message, ['admin',],
-                     'buyur canım '),
+                     'вuчur cαnım'),
 
         Bot_Response(message, ['günaydın',],
                      '☀️'),
@@ -76,14 +75,14 @@ def get_response(message):
 
         # When Website
         Bot_Response(message, ['muck', 'öpücük', 'öptüm',],
-                     'bence öpme aile var 😁'),
+                     'вєncє öpmє αílє vαr😁'),
 
         # When Projects
         Bot_Response(message, ['ban'],
                       '🎈'),
       
          Bot_Response(message, ['küfür'],
-                     'terbiyesizliketme🤨'),
+                     'тєявιуєѕιzℓιкєтмє🤨'),
     
   ]
 
