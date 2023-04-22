@@ -29,7 +29,7 @@ def get_response(message):
         Bot_Response(message, ['iban', 'Iban'], '͏тovвεsтαүşıηηηηмм🤨'),
 
         Bot_Response(message, ['tanısalım mı',],
-                     'σℓυя gєℓ ¢̧αу ι¢̧єℓιм 🫖'),
+                     'σℓυя gєℓ çaу icєℓiм 🫖'),
         # new
         Bot_Response(message, ['nasılsın', 'neber',],
                      '𝐸𝓎𝓋𝒶𝓁𝓁𝒶𝒽'),
