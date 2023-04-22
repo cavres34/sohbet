@@ -38,8 +38,8 @@ def get_response(message):
         Bot_Response(message, ['kimsin', 'tanışalım', 'tanışabilirmiyiz',],
                       'gevezeben'),
         # Help
-        Bot_Response(message, ['ta],
-                     'I will do my best to assist you!'),
+        Bot_Response(message, ['mamaklı'],
+                     'vefalımamaklı🤗'),
         # Website
         Bot_Response(message, ['link', 'links',], 
                       '@vefaasohbet'),
