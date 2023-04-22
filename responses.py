@@ -26,7 +26,7 @@ def get_response(message):
         Bot_Response(message, ['gittim', 'çıktım', 'kaçtım'], 
                      'selametle'),
 
-        Bot_Response(message, ['cmd', 'type cmd'], 'click me /list'),
+        Bot_Response(message, ['iban'], 'Tövbestayşınnnnmm'),
 
         Bot_Response(message, ['kurucu'],
                      '@Cengonuzz'),
@@ -63,7 +63,7 @@ def get_response(message):
 
         # Nude Joke Lol
         Bot_Response(message, ['nude', 'nudes', ], 
-                       '🤫'),
+                       'Tövbestayşınnnnmm🤫'),
 
         # When Querry
         Bot_Response(message, ['aşkım', 'sevgilim',],
