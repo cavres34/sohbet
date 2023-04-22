@@ -35,7 +35,7 @@ def get_response(message):
                      'eyvallah'),
        
         Bot_Response(message, ['Özcan',],
-                       'vefalıÖzcan 🤗'),
+             'vefalıÖzcan 🤗'),
 
         # Name
         Bot_Response(message, ['kimsin', 'tanışalım', 'tanışabilirmiyiz',],
