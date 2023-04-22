@@ -18,7 +18,7 @@ def Bot_Response(message, response_array, response):
 
 def get_response(message):
     # Add your custom responses here
-    response_list = [
+    response_list = []
         Bot_Response(message, ['selam', 'merhaba', 'hello',],
 
                      'Aleykümselam'),
