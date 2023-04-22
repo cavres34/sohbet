@@ -80,8 +80,10 @@ def get_response(message):
 
         # When Projects
         Bot_Response(message, ['ban'],
+                      '🎈'),
+      
+         Bot_Response(message, ['ban'],
                      '🎈'),
-
       ]
 
     # Checks all of the response scores and returns the best matching response
