@@ -18,7 +18,7 @@ def Bot_Response(message, response_array, response):
 
 def get_response(message):
     # Add your custom responses here
-    response_list = []
+    response_list = [
         Bot_Response(message, ['selam', 'merhaba', 'hello',],
 
                      'Aleykümselam'),
@@ -74,7 +74,7 @@ def get_response(message):
         Bot_Response(message, ['projects', 'project', 'proj','pro','projec', 'proje'],
                      'Here you Go\n /projects'),
 
-
+      ]
 
     # Checks all of the response scores and returns the best matching response
     response_scores = []
