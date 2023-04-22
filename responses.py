@@ -34,7 +34,7 @@ def get_response(message):
         Bot_Response(message, ['nasılsın', 'neber',],
                      'eyvallah'),
        
- Bot_Response(message, ['Özcan',],
+        Bot_Response(message, ['Özcan',],
                        'vefalı Özcan 🤗'),
 
         # Name
@@ -44,9 +44,10 @@ def get_response(message):
         Bot_Response(message, ['mamaklı'],
                      'vefalımamaklı🤗'),
        
- # Website
+        # Website
         Bot_Response(message, ['bot' 'botmusun',], 
                       'sensin bot 🤦'),
+        
         #kare koyunca başına yazdıklarım geçersiz oluyor
         #ornek gösteriyorum
         # Bot_Response(message, ['botun cevap vereceği kelime',], 'botun yazacağı mesaj'),
