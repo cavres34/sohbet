@@ -88,10 +88,10 @@ def get_response(message):
                          '🤨🔪'),     
 
           Bot_Response(message, ['sıkıldım'],
-                       'ᔕıKı ᑕᗩᑎ IYIᗪIᖇ KOᒪᗩY çıKᗰᗩᘔ😂),     
+                       'ᔕıKı ᑕᗩᑎ IYIᗪIᖇ KOᒪᗩY çıKᗰᗩᘔ😂'),     
 
            Bot_Response(message, ['sus'],
-                       'nєdєnmíş вєn kσnuşmαk íçín чαpıldım🤨),
+                       'nєdєnmíş вєn kσnuşmαk íçín чαpıldım🤨'),
  ]
 
     # Checks all of the response scores and returns the best matching response
