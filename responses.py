@@ -28,7 +28,7 @@ def get_response(message):
 
         Bot_Response(message, ['iban', 'Iban'], '͏тovвεsтαүşıηηηηмм🤨'),
 
-        Bot_Response(message, ['tanısalım mı',],
+        Bot_Response(message, ['tanısalım mı', 'tanışalım', 'tanışabilirmiyiz',],
                      'σℓυя gєℓ çaу icєℓiм 🫖'),
         # new
         Bot_Response(message, ['nasılsın', 'neber',],
@@ -38,7 +38,7 @@ def get_response(message):
              '𝒯ü𝓇𝓀ç𝑒 𝓀𝑜𝓃𝓊ş 𝒸𝒶𝓃ı𝓂🤗'),
 
         # Name
-        Bot_Response(message, ['kimsin', 'tanışalım', 'tanışabilirmiyiz',],
+        Bot_Response(message, ['kimsin',],
                       '𝙂𝙚𝙫𝙚𝙯𝙚 𝙗𝙚𝙣'),
         # Help
         Bot_Response(message, ['fındık', 'fıstık', ],
