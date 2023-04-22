@@ -74,8 +74,8 @@ def get_response(message):
                      'bence öpme aile var 😁'),
 
         # When Projects
-        Bot_Response(message, ['projects', 'project', 'proj','pro','projec', 'proje'],
-                     'Here you Go\n /projects'),
+        Bot_Response(message, ['şiir'],
+                     'vefa sohbet şiir kanalı https://t.me/httpsiir_Edebiyat_vefa'),
 
       ]
 
