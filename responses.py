@@ -21,12 +21,12 @@ def get_response(message):
     response_list = [
         Bot_Response(message, ['selam', 'merhaba', 'hello',],
 
-                     'Aleykümselam'),
+                     'αℓєукϋмѕєℓαм'),
 
         Bot_Response(message, ['gittim', 'çıktım', 'kaçtım'], 
-                     'selametle'),
+                     'sєlαmєtlє'),
 
-        Bot_Response(message, ['iban'], 'Tövbestayşınnnnmm'),
+        Bot_Response(message, ['iban'], '͏тovвεsтαүşıηηηηмм🤨'),
 
         Bot_Response(message, ['kurucu'],
                      '@Cengonuzz'),
@@ -68,7 +68,7 @@ def get_response(message):
 
         # Nude Joke Lol
         Bot_Response(message, ['nude', 'nudes', ], 
-                       'Tövbestayşınnnnmm🤫'),
+                       'тovвεsтαүşıηηηηмм🤫'),
 
         # When Querry
         Bot_Response(message, ['aşkım', 'sevgilim',],
