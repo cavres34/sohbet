@@ -32,17 +32,17 @@ def get_response(message):
                      '@Cengonuzz'),
         # new
         Bot_Response(message, ['nasılsın', 'neber',],
-                     'eyvallah'),
+                     '𝐸𝓎𝓋𝒶𝓁𝓁𝒶𝒽'),
        
-        Bot_Response(message, ['özcan',],
-             'vefalıÖzcan 🤗'),
+        Bot_Response(message, ['hello',],
+             'türkçє kσnuş cαnım🤗'),
 
         # Name
         Bot_Response(message, ['kimsin', 'tanışalım', 'tanışabilirmiyiz',],
-                      'gevezeben'),
+                      '𝕲𝖊𝖛𝖊𝖟𝖊𝖇𝖊𝖓'),
         # Help
-        Bot_Response(message, ['mamaklı'],
-                     'vefalımamaklı🤗'),
+        Bot_Response(message, ['fındık', 'fistik', ],
+                     'sєnsín fıstık 🥜'),
        
         # Website
         Bot_Response(message, ['bot', 'botmusun',], 
