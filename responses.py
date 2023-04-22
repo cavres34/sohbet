@@ -45,7 +45,7 @@ def get_response(message):
                      'vefalımamaklı🤗'),
        
         # Website
-        Bot_Response(message, ['bot' 'botmusun',], 
+        Bot_Response(message, ['bot', 'botmusun',], 
                       'sensinbot🤦'),
         
         #kare koyunca başına yazdıklarım geçersiz oluyor
