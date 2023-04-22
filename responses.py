@@ -43,6 +43,9 @@ def get_response(message):
         # Website
         Bot_Response(message, ['link', 'links',], 
                       '@vefaasohbet'),
+        #kare koyunca başına yazdıklarım geçersiz oluyor
+        #ornek gösteriyorum
+        # Bot_Response(message, ['botun cevap vereceği kelime',], 'botun yazacağı mesaj'),
 
         # Song
         Bot_Response(message, ['nerelisin',],
