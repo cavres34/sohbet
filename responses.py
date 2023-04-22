@@ -70,8 +70,8 @@ def get_response(message):
                      '❤️'),
 
         # When Website
-        Bot_Response(message, ['website', 'amrohan', 'web', 'developer'],
-                     'https://www.rohan.ml'),
+        Bot_Response(message, ['muck', 'öpücük', 'öptüm',],
+                     'bence öpme aile var 😁'),
 
         # When Projects
         Bot_Response(message, ['projects', 'project', 'proj','pro','projec', 'proje'],
