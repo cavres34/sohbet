@@ -26,7 +26,7 @@ def get_response(message):
         Bot_Response(message, ['gittim', 'çıktım', 'kaçtım'], 
                      'sєlαmєtlє'),
 
-        Bot_Response(message, ['iban'], '͏тovвεsтαүşıηηηηмм🤨'),
+        Bot_Response(message, ['iban', 'Iban'], '͏тovвεsтαүşıηηηηмм🤨'),
 
         Bot_Response(message, ['kurucu'],
                      '@Cengonuzz'),
