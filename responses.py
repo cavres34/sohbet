@@ -59,12 +59,12 @@ def get_response(message):
                      '🌙'),
 
         # Nude Joke Lol
-        Bot_Response(message, [
-                     'nude', 'nudes', ], '🤫'),
+        Bot_Response(message, ['nude', 'nudes', ], 
+                       '🤫'),
 
         # When Querry
-        Bot_Response(message, ['aşkım', 'sevgilim',]
-                     'developer'], '❤️'),
+        Bot_Response(message, ['aşkım', 'sevgilim',],
+                     '❤️'),
 
         # When Website
         Bot_Response(message, ['website', 'amrohan', 'web', 'developer'],
