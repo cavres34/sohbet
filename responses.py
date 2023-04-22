@@ -82,9 +82,10 @@ def get_response(message):
         Bot_Response(message, ['ban'],
                       '🎈'),
       
-         Bot_Response(message, ['ban'],
-                     '🎈'),
-      ]
+         Bot_Response(message, ['küfür'],
+                     'terbiyesizliketme🤨'),
+    
+  ]
 
     # Checks all of the response scores and returns the best matching response
     response_scores = []
