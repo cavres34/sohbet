@@ -20,12 +20,17 @@ def get_response(message):
     # Add your custom responses here
     response_list = [
         Bot_Response(message, ['selam', 'merhaba',],
-
-                     'αℓєукϋмѕєℓαм'),
+                      'αℓєукϋмѕєℓαм'),
 
         Bot_Response(message, ['gittim', 'çıktım', 'kaçtım'], 
                      'sєlαmєtlє'),
 
+        Bot_ Response(message, ['naber',],
+                     'í̇чí sєndєn nαвєrr😉'),
+     
+        Bot_Response(message, ['rica ederim',],
+                     'nє kαdαr kíвαrsın sєn öчlє🤗'),   
+      
         Bot_Response(message, ['iban', 'Iban'], '͏тovвεsтαүşıηηηηмм🤨'),
 
         Bot_Response(message, ['tanısalım mı', 'tanışalım', 'tanışabilirmiyiz',],
