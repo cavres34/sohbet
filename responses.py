@@ -67,8 +67,8 @@ def get_response(message):
         Bot_Response(message, ['admin',],
                      'вuчur cαnım'),
 
-        Bot_Response(message, [':smile:😂',],
-                     'Ne gülüyon'),
+        Bot_Response(message, ['çay',],
+                     'hüseyin işi bıraktı😁'),
       
         Bot_Response(message, ['günaydın',],
                      '☀️'),
