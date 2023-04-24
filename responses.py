@@ -91,7 +91,7 @@ def get_response(message):
                        'ᔕıKı ᑕᗩᑎ IYIᗪIᖇ KOᒪᗩY çıKᗰᗩᘔ😂'),     
 
            Bot_Response(message, ['sus'],
-                        'nєdєnmíş вєn kσnuşmαk íçín чαpıldım🤨),
+                        'nєdєnmíş вєn kσnuşmαk íçín чαpıldım🤨'),
           
            Bot_Response(message, ['trip'],
                        '🫣'),
