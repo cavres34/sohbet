@@ -36,6 +36,8 @@ def get_response(message):
         # new
         Bot_Response(message, ['nasılsın', 'neber',],
                      '𝐸𝓎𝓋𝒶𝓁𝓁𝒶𝒽'),
+        Bot_Response(message, ['naber',] , 'iyi senden'),
+
        
         Bot_Response(message, ['hello',],
              '𝒯ü𝓇𝓀ç𝑒 𝓀𝑜𝓃𝓊ş 𝒸𝒶𝓃ı𝓂🤗'),
