@@ -93,10 +93,10 @@ def get_response(message):
            Bot_Response(message, ['sus'],
                         'nєdєnmíş вєn kσnuşmαk íçín чαpıldım🤨),
           
-             Bot_Response(message, ['trip'],
+           Bot_Response(message, ['trip'],
                        '🫣'),
  
-]
+           ]
 
     # Checks all of the response scores and returns the best matching response
     response_scores = []
