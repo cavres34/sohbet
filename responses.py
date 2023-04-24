@@ -50,9 +50,8 @@ def get_response(message):
                      'sєnsín fıstık 🥜'),
    
         Bot_Response(message, ['😂😂', '😁😁', ],
-             'ne gülün'),    
+                     'ne gülün'),    
       
- 
         # Website
         Bot_Response(message, ['bot', 'botmusun',], 
                       '𝒮𝑒𝓃𝓈𝒾𝓃 𝒷𝑜𝓉🤦'),
