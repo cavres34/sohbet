@@ -26,8 +26,8 @@ def get_response(message):
                      'sєlαmєtlє'),
 
         Bot_ Response(message, ['naber',],
-                 'í̇чí sєndєn nαbєr😉'),
-     
+             'iyi senden'
+
         Bot_Response(message, ['rica ederim',],
              'nє kαdαr kíвαrsın sєn öчlє🤗'),   
       
