@@ -26,10 +26,10 @@ def get_response(message):
                      'sєlαmєtlє'),
 
         Bot_ Response(message, ['naber',],
-                     'í̇чí sєndєn nαbєr😉'),
+                 'í̇чí sєndєn nαbєr😉'),
      
         Bot_Response(message, ['rica ederim',],
-                     'nє kαdαr kíвαrsın sєn öчlє🤗'),   
+             'nє kαdαr kíвαrsın sєn öчlє🤗'),   
       
         Bot_Response(message, ['iban', 'Iban'], '͏тovвεsтαүşıηηηηмм🤨'),
 
