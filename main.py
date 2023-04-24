@@ -45,7 +45,9 @@ def start(update, context):
 
     update.message.reply_text(
 
-        "Good day there, I'm a bot that can communicate with you. You can get the most up-to-date tech news from devto or tldr, and more services will be added shortly..\n To start, say hey, hi, or hello.\n Get all Commands -/cmd")
+        "Merhaba ben geveze 😂
+         Grup içinde sizinle sohbet ederim❤️
+         Beni grubuna al sizde sohbet edeyim😝")
 
 def cmd(update, context):
 
