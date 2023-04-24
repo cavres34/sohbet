@@ -49,7 +49,7 @@ def get_response(message):
         Bot_Response(message, ['fındık', 'fıstık', ],
                      'sєnsín fıstık 🥜'),
    
-        Bot_Response(message, ['😂', '😁', ],
+        Bot_Response(message, ['😁', ],
                      'ne gülün'),    
       
         # Website
