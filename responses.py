@@ -22,7 +22,7 @@ def get_response(message):
         Bot_Response(message, ['selam', 'merhaba',],
                       'αℓєукϋмѕєℓαм'),
 
-        Bot_Response(message, ['gittim', 'çıktım', 'kaçtım'], 
+        Bot_Response(message, ['çıktım', 'kaçtım'], 
                      'sєlαmєtlє'),
           
 
@@ -35,13 +35,12 @@ def get_response(message):
                      'σℓυя gєℓ çaу icєℓiм 🫖'),
         # new
         Bot_Response(message, ['nasılsın', 'neber',],
-                     '𝐸𝓎𝓋𝒶𝓁𝓁𝒶𝒽'),
+                     '𝐸yvallah'),
         Bot_Response(message, ['naber',] , 'iyi senden'),
 
        
         Bot_Response(message, ['hello',],
-             '𝒯ü𝓇𝓀ç𝑒 𝓀𝑜𝓃𝓊ş 𝒸𝒶𝓃ı𝓂🤗'),
-
+             'türkçe konuş canım 😁'),
         # Name
         Bot_Response(message, ['kimsin',],
                       '𝙂𝙚𝙫𝙚𝙯𝙚 𝙗𝙚𝙣'),
@@ -54,7 +53,7 @@ def get_response(message):
       
         # Website
         Bot_Response(message, ['bot', 'botmusun',], 
-                      '𝒮𝑒𝓃𝓈𝒾𝓃 𝒷𝑜𝓉🤦'),
+                      'Sensin bot🤦'),
         
         #kare koyunca başına yazdıklarım geçersiz oluyor
         #ornek gösteriyorum
@@ -90,14 +89,17 @@ def get_response(message):
 
         # When Projects
         Bot_Response(message, ['ban'],
-                      '🎈'),
+                      'İşte biri daha uçtu🎈'),
       
          Bot_Response(message, ['küfür'],
                      'тєявιуєѕιzℓιкєтмє🤨'),
          
           Bot_Response(message, ['kes'],
                          '🤨🔪'),     
-
+ 
+          Bot_Response(message, ['gider'],
+                        'senin yaptığın gider ancak benim hoşuma gider😝'),     
+         
           Bot_Response(message, ['sıkıldım'],
                        'ᔕıKı ᑕᗩᑎ IYIᗪIᖇ KOᒪᗩY çıKᗰᗩᘔ😂'),     
 
@@ -105,7 +107,7 @@ def get_response(message):
                         'nєdєnmíş вєn kσnuşmαk íçín чαpıldım🤨'),
           
            Bot_Response(message, ['trip'],
-                       '🫣'),
+                       'Hayda ben naptım be şimdi🫣'),
  
            ]
 
