@@ -71,10 +71,10 @@ def get_response(message):
                      'hüseyin işi bıraktı😁'),
       
         Bot_Response(message, ['günaydın',],
-                     '☀️'),
+                     'Günüm şimdi aydı güzel insan☀️'),
 
         Bot_Response(message, ['geceler',],
-                     '🌙'),
+                     'İyi geceler Benli rüyalar 😂🌙'),
 
         # Nude Joke Lol
         Bot_Response(message, ['nude', 'nudes', ], 
