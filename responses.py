@@ -36,11 +36,19 @@ def get_response(message):
         # new
         Bot_Response(message, ['nasılsın', 'neber',],
                      '𝐸yvallah'),
+       
         Bot_Response(message, ['naber',] , 'iyi senden'),
 
-       
+
+       Bot_Response(message, ['aşk',],
+                     'ne gereksiz😒'),
+      
+        Bot_Response(message, ['pm', 'dm', 'özel',],
+                     'blader yasak yasak'),
+      
         Bot_Response(message, ['hello',],
              'türkçe konuş canım 😁'),
+       
         # Name
         Bot_Response(message, ['kimsin',],
                       '𝙂𝙚𝙫𝙚𝙯𝙚 𝙗𝙚𝙣'),
