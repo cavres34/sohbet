@@ -108,6 +108,9 @@ def get_response(message):
           Bot_Response(message, ['gider'],
                         'senin yaptığın gider ancak benim hoşuma gider😝'),     
          
+          Bot_Response(message, ['ayıp',],
+                     'ayıpın yolları kayıp😅'),
+
           Bot_Response(message, ['sıkıldım'],
                        'ᔕıKı ᑕᗩᑎ IYIᗪIᖇ KOᒪᗩY çıKᗰᗩᘔ😂'),     
 
