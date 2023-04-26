@@ -42,7 +42,11 @@ def get_response(message):
 
        Bot_Response(message, ['aşk',],
                      'ne gereksiz😒'),
-      
+       
+       Bot_Response(message, ['orta', 'sade' 'şekerli',],
+                     'Az yede kendine hizmetçi tut😁'),   
+
+
         Bot_Response(message, ['pm', 'dm', 'özel',],
                      'blader yasak yasak'),
       
