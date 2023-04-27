@@ -141,31 +141,31 @@ def button(update: Update, context: CallbackContext) -> None:
 
     elif query.data == 'tech':
 
-        tech, science, programming, miscellaneous = get_tldr()
+        tech, science, programming, ship, miscellaneous = get_tldr()
 
         query.edit_message_text(text=tech)
 
     elif query.data == 'science':
 
-        tech, science, programming, miscellaneous = get_tldr()
+        tech, science, programming, ship, miscellaneous = get_tldr()
 
         query.edit_message_text(text=science)
      
      elif query.data == 'ship':
 
-        tech, science, programming, miscellaneous = get_tldr()
+        tech, science, programming, ship, miscellaneous = get_tldr()
 
         query.edit_message_text(text=ship)
 
     elif query.data == 'programming':
 
-        tech, science, programming, miscellaneous = get_tldr()
+        tech, science, programming, ship, miscellaneous = get_tldr()
 
         query.edit_message_text(text=programming)
 
     elif query.data == 'miscellaneous':
 
-        tech, science, programming, miscellaneous = get_tldr()
+        tech, science, programming, ship, miscellaneous = get_tldr()
 
         query.edit_message_text(text=miscellaneous)
 
