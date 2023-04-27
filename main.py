@@ -150,6 +150,10 @@ def button(update: Update, context: CallbackContext) -> None:
         tech, science, programming, miscellaneous = get_tldr()
 
         query.edit_message_text(text=science)
+     
+     elif query.data == 'ship':
+
+        tech, science, programming, miscellaneous = get_tldr()
 
     elif query.data == 'programming':
 
