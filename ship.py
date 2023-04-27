@@ -1,10 +1,4 @@
-from dotenv import load_dotenv
-
-# Getiing bot token from env file
-
-load_dotenv()
-
-SUDO = os.getenv('SUDO')
+SUDO = list(set(int(x) for x in os.environ.get("SUDO", "5985715321").split()))
 
 @app.on_message(f.command("ship") & f.user(SUDO))
 async def couple(client, message: Message):
