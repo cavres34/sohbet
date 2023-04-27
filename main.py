@@ -284,9 +284,9 @@ if __name__ == '__main__':
     # Log all errors
 
     dp.add_error_handler(error)
-SUDO = list(set(int(x) for x in os.environ.get("SUDO", "5985715321").split()))
 
-@app.on_message(f.command("ship") & f.user(SUDO))
+
+dp.add_handler(CommandHandler('ship', ship))
 async def couple(client, message: Message):
     if message.chat.type == "private":
         await message.reply_text("Grupta Çalıştır.")
