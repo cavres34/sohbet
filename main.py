@@ -73,6 +73,8 @@ def tldr(update, context):
 
             InlineKeyboardButton("programming", callback_data='programming'),
 
+            InlineKeyboardButton("ship", callback_data='ship'),
+
             InlineKeyboardButton(
 
                 "miscellaneous", callback_data='miscellaneous')
