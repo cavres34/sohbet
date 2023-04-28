@@ -38,7 +38,7 @@ def get_response(message):
         Bot_Response(message,['çak',],
               'çak bi beşlik 🫸🫷'), 
           
-        Bot_Response(message,['bal', 'arı',],
+        Bot_Response(message,['bal', 'balım', 'arı',],
               'bal gibiyim ama sakın sorma annem arı değil🐝🍯'), 
           
         Bot_Response(message,['yakışıklı',],
