@@ -52,6 +52,12 @@ def get_response(message):
       
         Bot_Response(message, ['hello',],
              'türkçe konuş canım 😁'),
+             
+        Bot_Response(message, ['tamam',], 'sen tamam diyorsan tamamdır'), 
+        
+        Bot_Response(message, ['öyle',], 
+           'öyle diyorsan öyledir'), 
+      
        
         # Name
         Bot_Response(message, ['kimsin',],
