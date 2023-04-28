@@ -58,7 +58,7 @@ def get_response(message):
        Bot_Response(message, ['of',], 
            'ne olduyyyy sanaaaaaa😂'), 
            
-       Bot_Response(message,['off',], 
+       Bot_Response(message, ['off',], 
            'oflama ula oflama'), 
      
            
