@@ -59,6 +59,9 @@ def get_response(message):
         Bot_Response(message, ['teşşekürler',], 
              '𝕽𝖎𝖈𝖆 𝕰𝖉𝖊𝖗𝖎𝖒 𝕰𝖋𝖊𝖓𝖎𝖒😉'), 
              
+        Bot_Response(message,['Hasbinallah',],
+            'Sakin Sinirlenme Baby'), 
+             
         Bot_Response(message, ['tamam',], 'sen tamam diyorsan tamamdır'), 
         
         Bot_Response(message, ['öyle',], 
