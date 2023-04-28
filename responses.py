@@ -63,7 +63,7 @@ def get_response(message):
      
            
     
-      
+ 
       
       
       BBot_Response(message, ['cuma',], 
