@@ -53,7 +53,7 @@ def get_response(message):
                      'ne gereksiz😒'),
        
        Bot_Response(message, ['sen',],
-           'Evet Ben İyi Ki Varım Dimi 😂😂'), 
+           'Evet Ben İyi Ki Varım Dimi😂'), 
        
        Bot_Response(message, ['of',], 
            'ne olduyyyy sanaaaaaa😂'), 
@@ -62,7 +62,7 @@ def get_response(message):
            'oflama ula oflama'), 
      
       Bot_Response(message, ['cuma',], 
-            'Hayırlı Cumalar Din Kardeşim🙂🙂'), 
+            'Hayırlı Cumalar Din Kardeşim🙂'), 
        
        Bot_Response(message, ['orta', 'sade', 'şekerli',],
                      'az yede kendine hizmetçi tut😁'),   
@@ -95,7 +95,7 @@ def get_response(message):
         Bot_Response(message, ['neden',], 'Her Şeyin Bir Nedeni Vardır Cano'), 
        
         Bot_Response(message, ['gülüm',], 
-             'sαnα gülüm dєmєm gülün σ̈mrü αz σlur🌹🌹'), 
+             'sαnα gülüm dєmєm gülün σ̈mrü αz σlur🌹'), 
        
         Bot_Response(message, ['muah', 'muahh', ], 
               'ıyyyy yalaka şey seni😂',), 
