@@ -60,6 +60,9 @@ def get_response(message):
       
         Bot_Response(message, ['neden',], '𝐻𝑒𝓇 𝒮̧𝑒𝓎𝒾𝓃 𝐵𝒾𝓇 𝒩𝑒𝒹𝑒𝓃𝒾 𝒱𝒶𝓇𝒹ı𝓇'), 
        
+        Bot_Response(message, ['gülüm',], 
+             'sαnα gülüm dєmєm gülün σ̈mrü αz σlur🌹🌹'), 
+       
         # Name
         Bot_Response(message, ['kimsin',],
                       '𝙂𝙚𝙫𝙚𝙯𝙚 𝙗𝙚𝙣'),
