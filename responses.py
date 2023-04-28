@@ -141,7 +141,7 @@ def get_response(message):
                         'nєdєnmíş вєn kσnuşmαk íçín чαpıldım🤨'),
           
            Bot_Response(message, ['trip'],
-                       'Hayda ben naptım be şimdi🫣'),
+                       'Hasbinallah🤲🤲'),
  
            ]
 
