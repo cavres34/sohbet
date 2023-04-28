@@ -34,7 +34,9 @@ def get_response(message):
         Bot_Response(message,['bebek', 'beybi',],
               'agucuk aguu👶👼'), 
           
-
+        Bot_Response(message,['yoo',],
+              'ne demek yoo çok ayıp duymamış olayım'), 
+          
         Bot_Response(message,['çak',],
               'çak bi beşlik 🫸🫷'), 
           
@@ -90,6 +92,9 @@ def get_response(message):
 
          Bot_Response(message, ['sanane',],
                       'saman yeeah'),
+
+         Bot_Response(message, ['sen',],
+                      'ben mi'),
 
         Bot_Response(message, ['pm', 'dm', 'özel',],
                      'blader yasak yasak'),
