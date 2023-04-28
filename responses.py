@@ -43,8 +43,8 @@ def get_response(message):
         Bot_Response(message, ['nasılsın',],
                      'eyiyim sen nasılsın kanka'), 
        
-       Bot_Response(message, ['naber',], 
-              'gelmedi senden bi haber'), 
+       Bot_Response(message, ['bakma',], 
+              'ne bakacam sana be belediye baksın sana😂'), 
        
         Bot_Response(message, ['naber',] , 'iyi senden'),
 
@@ -61,12 +61,7 @@ def get_response(message):
        Bot_Response(message, ['off',], 
            'oflama ula oflama'), 
      
-           
-    
- 
-      
-      
-      BBot_Response(message, ['cuma',], 
+      Bot_Response(message, ['cuma',], 
             'Hayırlı Cumalar Din Kardeşim🙂🙂'), 
        
        Bot_Response(message, ['orta', 'sade', 'şekerli',],
@@ -126,8 +121,7 @@ def get_response(message):
         # Song
         Bot_Response(message, ['nerelisin',],
                      'sαnα nєrєsí lαzım'),
-        # Notes
-        Bot_Response(message, ['admin',],
+7        Bot_Response(message, ['admin',],
                      'вuчur cαnım'),
 
         Bot_Response(message, ['çay',],
@@ -145,7 +139,7 @@ def get_response(message):
 
         # When Querry
         Bot_Response(message, ['aşkım', 'sevgilim',],
-                     '❤️'),
+                     'bana mı dedin ayu🐻'),
 
         # When Website
         Bot_Response(message, ['muck', 'öpücük', 'öptüm',],
