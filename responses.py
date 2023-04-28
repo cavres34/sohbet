@@ -82,6 +82,9 @@ def get_response(message):
        Bot_Response(message, ['napıyorsun',], 
             'Seni Hiç Alakadar Etmez Dostum 😂😂'), 
             
+       Bot_Response(message, ['napıyon',], 
+            'İyi yapıyom😄 sende iyi yapcan mı😶‍🌫️'), 
+
        Bot_Response(message,['açım', 'acıktım',], 
              'Ne Yapim hahahha😂'), 
 
