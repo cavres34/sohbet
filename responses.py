@@ -47,12 +47,16 @@ def get_response(message):
            'Evet Ben İyi Ki Varım Dimi 😂😂'), 
     
       
+      
        
        Bot_Response(message, ['cuma',], 
             'Hayırlı Cumalar Din Kardeşim🙂🙂'), 
        
        Bot_Response(message, ['orta', 'sade', 'şekerli',],
                      'az yede kendine hizmetçi tut😁'),   
+         
+       Bot_Response(message, ['napıyorsun',], 
+            'Seni Hiç Alakadar Etmez Dostum 😂😂'), 
 
 
 
