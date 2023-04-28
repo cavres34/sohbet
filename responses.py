@@ -29,7 +29,7 @@ def get_response(message):
              'merhabana merhaba kardeşşşşşş'), 
              
         Bot_Response(message,['kaçtım',],
-              'kocaya mı kaçıyon hsyırdır'), 
+              'kocaya mı kaçıyon hayırdır'), 
           
 
         Bot_Response(message, ['rica',],
@@ -40,8 +40,11 @@ def get_response(message):
         Bot_Response(message, ['tanısalım mı', 'tanışalım', 'tanışabilirmiyiz',],
                      'σℓυя gєℓ çaу icєℓiм 🫖'),
         # new
-        Bot_Response(message, ['nasılsın', 'neber',],
-                     '𝐸yvallah'),
+        Bot_Response(message, ['nasılsın',],
+                     'eyiyim sen nasılsın kanka'), 
+       
+       Bot_Response(message, ['naber',], 
+              'gelmedi senden bi haber'), 
        
         Bot_Response(message, ['naber',] , 'iyi senden'),
 
