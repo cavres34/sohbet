@@ -48,7 +48,7 @@ def get_response(message):
     
       
       
-       
+      
        Bot_Response(message, ['cuma',], 
             'Hayırlı Cumalar Din Kardeşim🙂🙂'), 
        
@@ -57,6 +57,9 @@ def get_response(message):
          
        Bot_Response(message, ['napıyorsun',], 
             'Seni Hiç Alakadar Etmez Dostum 😂😂'), 
+            
+       Bot_Response(message,['açım', 'acıktım',], 
+             'Ne Yapim hahahha😂'), 
 
 
 
