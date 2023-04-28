@@ -34,7 +34,7 @@ def get_response(message):
         Bot_Response(message,['bebek', 'beybi',],
               'agucuk aguu👶👼'), 
 
-          Bot_Response(message, ['ne-oldu',],
+          Bot_Response(message, ['noldu',],
                       'ne olmuş ne olmuş hadi banada diyin🧐'),
 
         Bot_Response(message,['yoo',],
