@@ -64,7 +64,7 @@ def get_response(message):
         Bot_Response(message, ['öyle',], 
            'öyle diyorsan öyledir'), 
       
-        Bot_Response(message, ['neden',], '𝐻𝑒𝓇 𝒮̧𝑒𝓎𝒾𝓃 𝐵𝒾𝓇 𝒩𝑒𝒹𝑒𝓃𝒾 𝒱𝒶𝓇𝒹ı𝓇'), 
+        Bot_Response(message, ['neden',], 'Her Şeyin Bir Nedeni Vardır Cano'), 
        
         Bot_Response(message, ['gülüm',], 
              'sαnα gülüm dєmєm gülün σ̈mrü αz σlur🌹🌹'), 
