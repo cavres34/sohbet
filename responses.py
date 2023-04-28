@@ -54,11 +54,19 @@ def get_response(message):
        
        Bot_Response(message, ['sen',],
            'Evet Ben İyi Ki Varım Dimi 😂😂'), 
+       
+       Bot_Response(message, ['of',], 
+           'ne olduyyyy sanaaaaaa😂'), 
+           
+       Bot_Response(message,['off',]
+           'oflama ula oflama'), 
+     
+           
     
       
       
       
-       Bot_Response(message, ['cuma',], 
+      BBot_Response(message, ['cuma',], 
             'Hayırlı Cumalar Din Kardeşim🙂🙂'), 
        
        Bot_Response(message, ['orta', 'sade', 'şekerli',],
