@@ -121,7 +121,7 @@ def get_response(message):
         # Song
         Bot_Response(message, ['nerelisin',],
                      'sαnα nєrєsí lαzım'),
-7        Bot_Response(message, ['admin',],
+        Bot_Response(message, ['admin',],
                      'вuчur cαnım'),
 
         Bot_Response(message, ['çay',],
