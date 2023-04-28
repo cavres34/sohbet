@@ -31,7 +31,19 @@ def get_response(message):
         Bot_Response(message,['kaçtım',],
               'kocaya mı kaçıyon hayırdır'), 
           
+        Bot_Response(message,['bebek', 'beybi',],
+              'agucuk aguu👶👼'), 
+          
 
+        Bot_Response(message,['çak',],
+              'çak bi beşlik 🫸🫷'), 
+          
+        Bot_Response(message,['bal',],
+              'bal gibiyim ama sakın sorma annem arı değil🐝🍯'), 
+          
+        Bot_Response(message,['yakışıklı',],
+              'biliyom söylemene gerek yok🤦'), 
+          
         Bot_Response(message, ['rica',],
              'nє kαdαr kíbαrsın sєn öчlє🤗'),   
       
