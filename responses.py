@@ -73,7 +73,8 @@ def get_response(message):
        Bot_Response(message,['açım', 'acıktım',], 
              'Ne Yapim hahahha😂'), 
 
-
+         Bot_Response(message, ['sanan3',],
+                      'saman yeeah'),
 
         Bot_Response(message, ['pm', 'dm', 'özel',],
                      'blader yasak yasak'),
