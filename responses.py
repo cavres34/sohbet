@@ -73,7 +73,7 @@ def get_response(message):
        Bot_Response(message,['açım', 'acıktım',], 
              'Ne Yapim hahahha😂'), 
 
-         Bot_Response(message, ['sanan3',],
+         Bot_Response(message, ['sanane',],
                       'saman yeeah'),
 
         Bot_Response(message, ['pm', 'dm', 'özel',],
@@ -122,6 +122,7 @@ def get_response(message):
         # Song
         Bot_Response(message, ['nerelisin',],
                      'sαnα nєrєsí lαzım'),
+      
         Bot_Response(message, ['admin',],
                      'вuчur cαnım'),
 
