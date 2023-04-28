@@ -93,7 +93,7 @@ def get_response(message):
          Bot_Response(message, ['sanane',],
                       'saman yeeah'),
 
-         Bot_Response(message, ['sen',],
+         Bot_Response(message, ['siz',],
                       'ben mi'),
 
         Bot_Response(message, ['pm', 'dm', 'özel',],
