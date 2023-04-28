@@ -43,8 +43,8 @@ def get_response(message):
        Bot_Response(message, ['aşk',],
                      'ne gereksiz😒'),
        
-       Bot_Response(message, ['sen varya sen',], 
-             'єvєt vαrım í̇чíkí vαrım dímí😂😂'), 
+       Bot_Response(message, ['sen varya sen',],'єvєt vαrım í̇чíkí vαrım dímí😂😂'), 
+    
        
        Bot_Response(message, ['orta', 'sade', 'şekerli',],
                      'az yede kendine hizmetçi tut😁'),   
