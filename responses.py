@@ -42,6 +42,9 @@ def get_response(message):
           
         Bot_Response(message,['çak',],
               'çak bi beşlik 🫸🫷'), 
+        
+        Bot_Response(message,['sorun',],
+              'varsa sorun yapalım açık oturum😂'),
           
         Bot_Response(message,['bal', 'balım', 'arı',],
               'bal gibiyim ama sakın sorma annem arı değil🐝🍯'), 
