@@ -98,7 +98,9 @@ def get_response(message):
 
          Bot_Response(message, ['siz',],
                       'ben mi'),
-
+         Bot_Response(message, ['soru', 'bir şey soracam', sorum var',]
+                       'sor gelsin😂'),
+            
         Bot_Response(message, ['pm', 'dm', 'özel',],
                      'blader yasak yasak'),
       
