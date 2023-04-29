@@ -44,7 +44,7 @@ def start(update, context):
 
     update.message.reply_text(
 
-        "Merhaba ben sizinle konuşan 😂 \n Grup içinde sizinle sohbet ederim❤️ \n Beni gruba al sizlede sohbet edeyim😝")
+        "Merhaba ben çavreş tarafından sizinle sohbet etmek için geliştirildi 😂 \n Grup içinde sizinle sohbet ederim❤️ \n Beni gruba al sizlede sohbet edeyim😝")
          
 
 def cmd(update, context):
