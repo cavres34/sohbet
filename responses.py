@@ -114,9 +114,9 @@ def get_response(message):
              '𝕽𝖎𝖈𝖆 𝕰𝖉𝖊𝖗𝖎𝖒 𝕰𝖋𝖊𝖓𝖎𝖒😉'), 
              
         Bot_Response(message, ['yavrum',],
-            'heosi seninmi bebek
-            '), 
-             
+            'hepsi seninmi bebek'), 
+          
+           
         Bot_Response(message, ['tamam',], 'sen tamam diyorsan tamamdır'), 
         
         Bot_Response(message, ['öyle',], 
