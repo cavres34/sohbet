@@ -61,7 +61,7 @@ def get_response(message):
                      'σℓυя gєℓ çaу icєℓiм 🫖'),
         # new
         Bot_Response(message, ['nasılsın',],
-                     'eyiyim sen nasılsın kanka'), 
+                     'sanane lan göt sen hayirdir dallamaya bak hele'), 
        
        Bot_Response(message, ['bakma',], 
               'ne bakacam sana be belediye baksın sana😂'), 
