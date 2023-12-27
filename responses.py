@@ -119,7 +119,7 @@ def get_response(message):
            
         Bot_Response(message, ['tamam',], 'sen tamam diyorsan tamamdır'), 
         
-        Bot_Response(message, ['beşiktas',], 
+        Bot_Response(message, ['beşiktaş',], 
            'bırak beşiktası Galatasaray var affetmezler grubunda'), 
       
         Bot_Response(message, ['neden',], 'Her Şeyin Bir Nedeni Vardır Cano'), 
