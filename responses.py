@@ -113,8 +113,8 @@ def get_response(message):
         Bot_Response(message, ['teşşekürler',], 
              '𝕽𝖎𝖈𝖆 𝕰𝖉𝖊𝖗𝖎𝖒 𝕰𝖋𝖊𝖓𝖎𝖒😉'), 
              
-        Bot_Response(message, ['yavrum',],
-            'hepsi seninmi bebek'), 
+        Bot_Response(message, ['çilek',],
+            'evet ben çilek en tatlı meyve 🍓'), 
           
            
         Bot_Response(message, ['tamam',], 'sen tamam diyorsan tamamdır'), 
