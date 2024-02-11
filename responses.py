@@ -178,7 +178,7 @@ def get_response(message):
 
         # When Projects
         Bot_Response(message, ['ban'],
-                      'İşte biri daha uçtu🎈'),
+                      'çavreş hava yolları iyi yolculuklar diler🎈'),
       
          Bot_Response(message, ['küfür'],
                      'тєявιуєѕιzℓιкєтмє🤨'),
