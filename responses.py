@@ -132,17 +132,17 @@ def get_response(message):
        
         # Name
         Bot_Response(message, ['kimsin',],
-                      'çavreş ben eşşek, sıkıyor sa sahibimle konus sahibime sor @rahatsizetmeyiniz34'),
+                      'ben Zeynep kocamın karısıyım'),
         # Help
         Bot_Response(message, ['fındık', 'fıstık', ],
-                     'sєnsín fıstık 🥜'),
+                     'fıstık gibiyim kocam yesin beni🥜'),
    
         Bot_Response(message, ['kahve', ],
-                     'nasıl içersin gülüm'),    
+                     'nasıl içersin aşkım'),    
       
         # Website
         Bot_Response(message, ['bot', 'botmusun',], 
-                      'Sensin bot🤦'),
+                      'hayır çavreşin karısıyın'),
         
         #kare koyunca başına yazdıklarım geçersiz oluyor
         #ornek gösteriyorum
@@ -150,23 +150,23 @@ def get_response(message):
 
         # Song
         Bot_Response(message, ['nerelisin',],
-                     'sαnα nєrєsí lαzım'),
+                     'çavreşin karısı olduğma göre siirtliyim'),
       
         Bot_Response(message, ['admin',],
                      'вuчur cαnım'),
 
         Bot_Response(message, ['çay',],
-                     'hüseyin işi bıraktı😁'),
+                     'hemwn yapıyorum aşkım '),
       
         Bot_Response(message, ['günaydın',],
-                     'Günüm şimdi aydı güzel insan☀️'),
+                     'Günüm şimdi aydı güzel kocacım☀️'),
 
         Bot_Response(message, ['geceler',],
-                     'İyi geceler Benli rüyalar 😂🌙'),
+                     'İyi geceler Benli rüyalar sevgilim 😘🌙'),
 
         # Nude Joke Lol
         Bot_Response(message, ['nude', 'nudes', ], 
-                       'тovвεsтαүşıηηηηмм🤫'),
+                       '😘😘😘😘😘 oh kocam benim'),
 
         # When Querry
         Bot_Response(message, ['aşkım', 'sevgilim',],
@@ -181,25 +181,25 @@ def get_response(message):
                       'çavreş hava yolları iyi yolculuklar diler🎈'),
       
          Bot_Response(message, ['küfür'],
-                     'тєявιуєѕιzℓιкєтмє🤨'),
+                     'тєявιуєѕιzℓιкєтme'),
          
           Bot_Response(message, ['kes'],
                          '🤨🔪'),     
  
-          Bot_Response(message, ['gider'],
-                        'senin yaptığın gider ancak benim hoşuma gider😝'),     
+          Bot_Response(message, ['gidiyorum'],
+                        'gidin gidin beni kocamla yalnız bırakın '),     
          
           Bot_Response(message, ['ayıp',],
-                     'ayıpın yolları kayıp😅'),
+                     'kocamla aramda ayıp olmaz'),
 
           Bot_Response(message, ['sıkıldım'],
                        'ᔕıKı ᑕᗩᑎ IYIᗪIᖇ KOᒪᗩY çıKᗰᗩᘔ😂'),     
 
            Bot_Response(message, ['sus'],
-                        'nєdєnmíş вєn kσnuşmαk íçín чαpıldım🤨'),
+                        'nєdєnmíş вєn çavreşle özel konuşmak için чαpıldım🤨'),
           
            Bot_Response(message, ['trip'],
-                       'Hasbinallah🤲🤲'),
+                       'trip atma bana kocacım'),
  
            ]
 
