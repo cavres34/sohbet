@@ -20,37 +20,37 @@ def get_response(message):
     # Add your custom responses here
     response_list = [
         Bot_Response(message, ['selam',],
-                      'αℓєукϋмѕєℓαм'),
+                      'aleykumselam kocacım'),
 
-        Bot_Response(message, ['çıktım',], 
-                     'sєlαmєtlє'),
+        Bot_Response(message, ['meme',], 
+                     'memelerimde uyuyabilirsin çavreşim'),
           
         Bot_Response(message, ['merhaba',], 
-             'merhabana merhaba kardeşşşşşş'), 
+             'merhaba sevgilim'), 
              
-        Bot_Response(message,['kaçtım',],
-              'kocaya mı kaçıyon hayırdır'), 
+        Bot_Response(message,['evlenwk',],
+              'sen nasıl istersen kocam'), 
           
-        Bot_Response(message,['bebek', 'beybi',],
-              'agucuk aguu👶👼'), 
+        Bot_Response(message,['çavreş', '',],
+              'efendim kocacım'), 
 
-          Bot_Response(message, ['noldu',],
-                      'ne olmuş ne olmuş hadi banada diyin🧐'),
+          Bot_Response(message, ['nasılsın',],
+                      'nasıl olayım kocacım seni özlüyorum '),
 
-        Bot_Response(message,['yoo',],
-              'ne demek yoo çok ayıp duymamış olayım'), 
+        Bot_Response(message,['beni',],
+              'evet seni çok seviyorum '), 
           
-        Bot_Response(message,['çak',],
-              'çak bi beşlik 🫸🫷'), 
+        Bot_Response(message,['dudak',],
+              'istediğin zaman dudaklarımı öpebilirsin'), 
         
-        Bot_Response(message,['sorun',],
-              'varsa sorun yapalım açık oturum😂'),
+        Bot_Response(message,['uyuyalım',],
+              'seninle uyumak benim hep hayalin'),
           
         Bot_Response(message,['bal', 'balım', 'arı',],
               'bal gibiyim ama sakın sorma annem arı değil🐝🍯'), 
           
-        Bot_Response(message,['yakışıklı',],
-              'biliyom söylemene gerek yok🤦'), 
+        Bot_Response(message,['güzelim',],
+              'ben gerçekten güzel miyim yakışıklı çavreşim'), 
           
         Bot_Response(message, ['rica',],
              'nє kαdαr kíbαrsın sєn öчlє🤗'),   
