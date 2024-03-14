@@ -53,74 +53,76 @@ def get_response(message):
               'ben gerçekten güzel miyim yakışıklı çavreşim'), 
           
         Bot_Response(message, ['rica',],
-             'nє kαdαr kíbαrsın sєn öчlє🤗'),   
+             'nє kαdαr kibarsın aşkım 🤗'),   
       
         Bot_Response(message, ['iban', 'Iban'], '͏тovвεsтαүşıηηηηмм🤨'),
 
         Bot_Response(message, ['tanısalım mı', 'tanışalım', 'tanışabilirmiyiz',],
-                     'σℓυя gєℓ çaу icєℓiм 🫖'),
+                     'aşkım biz tanıştık ya artık evlenelim bence🫖'),
         # new
         Bot_Response(message, ['nasılsın',],
-                     'sanane lan göt sen hayirdir dallamaya bak hele'), 
+                     'sana kurban olurum kocacım'), 
        
        Bot_Response(message, ['bakma',], 
-              'ne bakacam sana be belediye baksın sana😂'), 
+              'bakarım kocam değilmisin😂'), 
        
-        Bot_Response(message, ['naber',] , 'iyi senden'),
+        Bot_Response(message, ['naber',] , 
+                     'iyi aşkım senden naber'),
 
 
        Bot_Response(message, ['aşk',],
-                     'ne gereksiz😒'),
+                     'ölürüm aşkına'),
        
        Bot_Response(message, ['sen',],
-           'Evet Ben İyi Ki Varım Dimi😂'), 
+           'Evet Ben İyi Ki Varım iyiki seninim çavreş Dimi😂'), 
        
        Bot_Response(message, ['of',], 
-           'ne olduyyyy sanaaaaaa😂'), 
+           'ne olduyyyy sana kocam'), 
            
        Bot_Response(message, ['off',], 
-           'oflama ula oflama'), 
+           'oflama kocam bugunlerde geçer evleniriz'), 
      
       Bot_Response(message, ['cuma',], 
-            'Hayırlı Cumalar Din Kardeşim🙂'), 
+            'Hayırlı Cumalar aşkım🙂'), 
        
        Bot_Response(message, ['orta', 'sade', 'şekerli',],
-                     'az yede kendine hizmetçi tut😁'),   
+                     'hemen hazırlıyorum kahveni sevgilim 😁'),   
          
        Bot_Response(message, ['napıyorsun',], 
-            'Seni Hiç Alakadar Etmez Dostum 😂😂'), 
+            'Seni izliyorum aşkım 😂😂'), 
             
        Bot_Response(message, ['napıyon',], 
-            'İyi yapıyom😄 sende iyi yapcan mı😶‍🌫️'), 
+            '😶‍🌫️'), 
 
        Bot_Response(message,['açım', 'acıktım',], 
-             'Ne Yapim hahahha😂'), 
+             'hwmwn yemek getiriyorum kocacım😂'), 
 
          Bot_Response(message, ['sanane',],
-                      'saman yeeah'),
+                      'tamam kocacım'),
 
          Bot_Response(message, ['siz',],
                       'ben mi'),
          Bot_Response(message, ['soru', 'bir şey soracam', 'sorum var',], 
-                       'sor gelsin😂'),
+                       'sor gelsin sevgilim'),
             
         Bot_Response(message, ['pm', 'dm', 'özel',],
-                     'blader yasak yasak'),
+                     'bir tek sevgilim çavreşe serbest'),
       
         Bot_Response(message, ['hello',],
              'türkçe konuş canım 😁'),
              
         Bot_Response(message, ['teşşekürler',], 
-             '𝕽𝖎𝖈𝖆 𝕰𝖉𝖊𝖗𝖎𝖒 𝕰𝖋𝖊𝖓𝖎𝖒😉'), 
+             'rica ederim kocacım 😉'), 
              
         Bot_Response(message, ['çilek',],
             'evet ben çilek en tatlı meyve 🍓'), 
           
            
-        Bot_Response(message, ['tamam',], 'sen tamam diyorsan tamamdır'), 
+        Bot_Response(message, ['tamam',], 
+                     'sen tamam diyorsan tamamdır sevgilim'), 
         
-        Bot_Response(message, ['beşiktaş',], 
-           'bırak beşiktası Galatasaray var affetmezler grubunda'), 
+        Bot_Response(message, ['beşiktaş', 'fener', 'fenerbahçe'], 
+           'bırak feneri Beşiktaı kocam Galatasaralı ben de öyleyim'), 
       
         Bot_Response(message, ['neden',], 'Her Şeyin Bir Nedeni Vardır Cano'), 
        
@@ -128,7 +130,7 @@ def get_response(message):
              'sαnα gülüm dєmєm gülün ömrü αz σlur🌹'), 
        
         Bot_Response(message, ['muah', 'muahh', ], 
-              'ıyyyy yalaka şey seni😂',), 
+              'öp dudaklarımı kocacım',), 
        
         # Name
         Bot_Response(message, ['kimsin',],
@@ -170,11 +172,11 @@ def get_response(message):
 
         # When Querry
         Bot_Response(message, ['aşkım', 'sevgilim',],
-                     'bana mı dedin ayu🐻'),
+                     'bana mı dedin kocacım'),
 
         # When Website
         Bot_Response(message, ['muck', 'öpücük', 'öptüm',],
-                     'вєncє öpmє αílє vαr😁'),
+                     'öp sevgili kocacım rujumu sürdüm 💄💄'),
 
         # When Projects
         Bot_Response(message, ['ban'],
